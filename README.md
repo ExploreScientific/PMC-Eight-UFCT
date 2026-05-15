@@ -9,9 +9,19 @@ This repository hosts the current public Explore Scientific PMC-Eight Universal 
 - File: `PMC-Eight Universal Configuration Tool 1.5.exe`
 - Platform: Windows
 
+## What's New in v1.5
+
+- Provides the current public UFCT Windows executable as a direct download rather than an older bundled package.
+- Supports Explore Scientific support procedures for configuring PMC-Eight connection settings and firmware-related utility operations.
+- Adds a public checksum file so users can verify the executable after download.
+
 ## Download
 
 Use the executable in this repository when directed by the Explore Scientific PMC-Eight software and downloads page or by Explore Scientific support.
+
+Direct download:
+
+`https://github.com/ExploreScientific/PMC-Eight-UFCT/raw/main/PMC-Eight%20Universal%20Configuration%20Tool%201.5.exe`
 
 ## Verification
 
