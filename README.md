@@ -2,6 +2,8 @@
 
 This repository hosts the current public Explore Scientific PMC-Eight Universal Firmware Configuration Tool executable for customer download.
 
+> **Latest release: v2.0** — download `PMC-Eight-UFCT.exe` from the [**Releases** page](../../releases/latest). Permanent link: `https://github.com/ExploreScientific/PMC-Eight-UFCT/releases/latest/download/PMC-Eight-UFCT.exe`. The v1.5 direct download documented below remains available.
+
 ## Current Release
 
 - Tool: PMC-Eight Universal Configuration Tool
